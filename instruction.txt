@@ -1,0 +1,14 @@
+Open proj2 folder and hit these comands.
+
+pip insatll -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+
+
+
+Now Provide All the details, this will create an admin account.
+
+Now Run.
+
+python ./bot.py
